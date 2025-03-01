@@ -12,10 +12,14 @@ int main(){
 
         for (int j = n - i ; j > 0; j--)
         {
-            cout<<i+1;
+            cout<< i+1 ;
         }//print number
-
         cout<<endl;   
     }
     return 0;
 }
+// output
+// 1111
+//  222
+//   33
+//    4
